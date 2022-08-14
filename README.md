@@ -1,2 +1,2 @@
 # cuePractice
-cue practice
+cue practice for learning
