@@ -10,7 +10,7 @@ import (
 	"github.com/foo/bar/multi:world"
 
 	// import from this module
-	"github.com/hofstadter-io/cuetorials/a"
+	"moduletest.com/cuetorials/a"
 )
 
 root: "root"
