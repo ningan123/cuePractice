@@ -9,6 +9,8 @@ import (
 	"github.com/foo/bar/multi:hello"
 	"github.com/foo/bar/multi:world"
 
+  "abc.com/abc"
+
 	// import from this module
 	"moduletest.com/cuetorials/a"
 )
@@ -21,4 +23,5 @@ vals: {
 	ex3: hello.msg
 	ex4: world.msg
 	ex5: a.a
+  ex6: abc.abc
 }
